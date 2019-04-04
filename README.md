@@ -38,5 +38,5 @@ Vous devez à présent calculer les données suivantes :
 
 Vous devez à présent calculer les données suivantes :
 
-- Le/s plus jeune/s et le plus âgé/s des __rescapés__
-- Le/s plus jeune/s et le plus âgé/s des __morts__
+- Le/s plus jeune/s et le plus âgé/s des personnes __qui ont survécu__
+- Le/s plus jeune/s et le plus âgé/s des personnes __qui n'ont pas survécu__
