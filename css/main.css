@@ -1,0 +1,25 @@
+body { margin: 2rem auto; max-width: 110rem; padding: 4rem 2rem; }
+ul { margin: 0 !important}
+li { list-style-type: none; }
+li:last-of-type { margin-bottom: 0; }
+h2 { font-weight: bold; }
+h2 span { font-size: .7em; font-weight: 100; display: block; }
+main { margin: 4rem 0 }
+a { color: inherit; }
+table:not(:last-of-type) { margin-bottom: 6rem; }
+caption { font-size: 1.1rem; text-align: left; font-weight: 600; margin-bottom: .5rem; }
+th, th:first-child { background: #606c76; color: white; padding: 1rem 1rem; }
+th:not(:first-child) { border-left: .1rem solid #e1e1e1; }
+td { padding: 1rem 0; border-left: .1rem solid #e1e1e1; }
+td:last-of-type{ border-right: .1rem solid #e1e1e1; }
+td:first-child { padding-left: 1rem; }
+td:not(:first-child), th:not(:first-child){ text-align: center; }
+td:not(:first-child){ font-size: 1.4rem; }
+.flexBox { display: flex; justify-content: space-between; flex-wrap: wrap; }
+.flexBox > * { width: calc(50% - 2rem) }
+footer { margin-top: 10rem; border-top: .1rem solid #a4aaaf; padding-top: 2rem; }
+
+.card > .fas{ font-size: 10rem; }
+
+.card h2, .card h3{  width: 100%; }
+.card li span{ font-size: .8em; }
