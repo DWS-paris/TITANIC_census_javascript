@@ -1,5 +1,7 @@
 # Exercice pratique Javascript : le Titanic
 
+![Titanic](./img/titanic.jpg)
+
 Dans le cadre de votre métier de dévelopeur Web ou autre (voir plus), vous êtes souvent confronté à des collections de données que vous devez analyser pour diverses raisons. L'exercice que vous devez réaliser a été pensé dans ce sens et va vous permettre de mettre en pratique des principes de bases en programmation Javascript.
 
 ## Contexte
